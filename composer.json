@@ -1,0 +1,19 @@
+{
+    "name": "lzc/captcha",
+    "description": "this is captcha",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lzc\\Captcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lzc",
+            "email": "1370164516@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
